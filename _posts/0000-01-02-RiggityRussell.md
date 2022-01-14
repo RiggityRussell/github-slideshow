@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Sliding sure is fun isn't it?
+Who doesn't love to slide?
 Use the left arrow to go back!
